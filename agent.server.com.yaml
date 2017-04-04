@@ -1,0 +1,10 @@
+---
+classes:
+  - motd
+  - java
+  - apache
+  - tempexm
+  - phpmysql
+motd::username: Agent1
+motd::location: America
+tempexm::named: Saikrishna Lakkavatri

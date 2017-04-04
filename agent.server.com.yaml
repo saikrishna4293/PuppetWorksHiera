@@ -2,6 +2,7 @@
 classes:
   - motd
   - java
+  - file1
   - apache
   - tempexm
   - phpmysql

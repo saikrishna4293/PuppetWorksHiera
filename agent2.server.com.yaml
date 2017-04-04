@@ -7,5 +7,5 @@ classes:
   - tempexm
   - phpmysql
 motd::username: Agent-007
-motd::location: England
+motd::location: India
 tempexm::named: Virat Kohli
